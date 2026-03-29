@@ -1,8 +1,8 @@
-HTML Authentication System (POC)
+**HTML Authentication System (POC)**
 
 This project is a simple authentication flow built using HTML, Bootstrap, and CSS. It includes multiple pages connected using anchor tags to simulate a basic login system.
 
-Pages Included
+**Pages Included**
 
 Login Page
 Register Page
@@ -10,14 +10,14 @@ Forgot Password Page
 Reset Password Page
 Dashboard Page
 
-Features
+**Features**
 
 Navigation between pages using anchor tags
 Clean and simple UI using Bootstrap
 Consistent design across all pages
 Basic authentication flow simulation
 
-Technologies Used
+**Technologies Used**
 
 HTML
 CSS
